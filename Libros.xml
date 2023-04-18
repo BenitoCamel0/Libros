@@ -1,0 +1,42 @@
+<libros>
+  <libro>
+    <titulo>Libro1</titulo>
+    <autor>Paco Gerte</autor>
+    <isbn>4856789101112</isbn>
+    <precio>654</precio>
+  </libro>
+
+  <libro>
+    <titulo>Libro2</titulo>
+    <autores>
+      <autor>Benito Camelo</autor>
+      <autor>Elsa Badillo</autor>
+    </autores>
+    <isbn>4856789101112</isbn>
+    <precio>361</precio>
+  </libro>
+
+  <libro>
+    <titulo>Libro3</titulo>
+    <autor>Dolores Delano</autor>
+    <isbn/>
+    <precio>851</precio>
+  </libro>
+
+  <libro>
+    <titulo>Libro4</titulo>
+    <autor>Tomás Turbao</autor>
+    <isbn>4856789101112</isbn>
+    <precios>
+      <precio>98</precio>
+      <precio>684</precio>
+    </precios>
+  </libro>
+
+  <libro>
+    <titulo>Libro5</titulo>
+    <autor>Elva Ginon</autor>
+    <isbn>4856789101112</isbn>
+    <precio/>
+  </libro>
+</libros>
